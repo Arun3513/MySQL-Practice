@@ -7,7 +7,7 @@ It covers SQL concepts from beginner to advanced with practical examples and bus
 
 ---
 
-## 🛠 Database
+##  Database
 
 - MySQL
 
